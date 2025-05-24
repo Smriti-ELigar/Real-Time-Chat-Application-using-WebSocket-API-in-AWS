@@ -1,4 +1,4 @@
-# 🧠 Real-Time Chat App with AWS WebSocket API
+# 🧠 LamdaLink : Real-Time Chat App with AWS WebSocket API
 
 This project demonstrates a real-time serverless chat application built using **AWS API Gateway (WebSocket)**, **Lambda**, and **DynamoDB**.
 
